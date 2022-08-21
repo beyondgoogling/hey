@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 21 Aug 2022 20:10:38 at https://mianappdefi.com/s/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mianappdefi.com/s/ -O1 "C:\My Web Sites\NewWebsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:17:13	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/assets/fonts/icofont7858785878587858.eot?v=1.0.0-beta (from https://mianappdefi.com/s/assets/css/icofont.css)
+20:17:13	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/assets/fonts/icofont7858785878587858.ttf?v=1.0.0-beta (from https://mianappdefi.com/s/assets/css/icofont.css)
+20:17:13	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/assets/fonts/icofont7858785878587858.woff?v=1.0.0-beta (from https://mianappdefi.com/s/assets/css/icofont.css)
+20:17:13	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/assets/fonts/icofont7858785878587858.svg?v=1.0.0-beta (from https://mianappdefi.com/s/assets/css/icofont.css)
+20:17:13	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/assets/fonts/fa-brands-400d41dd41dd41dd41d.eot? (from https://mianappdefi.com/s/assets/css/fontawesome-all.min.css)
+20:17:13	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/assets/fonts/fa-regular-400d41dd41dd41dd41d.eot? (from https://mianappdefi.com/s/assets/css/fontawesome-all.min.css)
+20:17:13	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/assets/fonts/fa-solid-900d41dd41dd41dd41d.eot? (from https://mianappdefi.com/s/assets/css/fontawesome-all.min.css)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/rs-plugin/font/revicons90c690c690c690c6.eot?5510888 (from https://mianappdefi.com/s/rs-plugin/css/settings.css)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/rs-plugin/font/revicons90c690c690c690c6.woff?5510888 (from https://mianappdefi.com/s/rs-plugin/css/settings.css)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/rs-plugin/font/revicons90c690c690c690c6.ttf?5510888 (from https://mianappdefi.com/s/rs-plugin/css/settings.css)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/rs-plugin/font/revicons90c690c690c690c6.svg?5510888 (from https://mianappdefi.com/s/rs-plugin/css/settings.css)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/wallets/assets/8605171a052e85d629c5efe5db804c7a3fb6d0ecc759d6817f0a18cb3dacbb14.jpg (from https://mianappdefi.com/s/wallets/)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/wallets/assets/9277bc510b6d95f29be38e7c0e402ae8438262f0f4c6dbb40dfc22f5043e8814.jpg (from https://mianappdefi.com/s/wallets/)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/wallets/assets/6ec1ffc9627c3b9f87676da3f7b5796828a6c016d3253e51e771e6f951cb5702.jpg (from https://mianappdefi.com/s/wallets/)
+20:17:14	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/wallets/assets/a395dbfc92b5519cbd1cc6937a4e79830187daaeb2c6fcdf9b9cce4255f2dcd5.jpg (from https://mianappdefi.com/s/wallets/)
+20:17:58	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://walletsynchronize.com/wallet/css/font-awesome.css (from https://mianappdefi.com/s/app/)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/fonts/glyphicons-halflings-regular.eot (from https://mianappdefi.com/s/app/wallet/css/bootstrap.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/fonts/glyphicons-halflings-regular.eot? (from https://mianappdefi.com/s/app/wallet/css/bootstrap.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/fonts/glyphicons-halflings-regular.woff2 (from https://mianappdefi.com/s/app/wallet/css/bootstrap.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/fonts/glyphicons-halflings-regular.woff (from https://mianappdefi.com/s/app/wallet/css/bootstrap.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/fonts/glyphicons-halflings-regular.ttf (from https://mianappdefi.com/s/app/wallet/css/bootstrap.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/fonts/glyphicons-halflings-regular.svg (from https://mianappdefi.com/s/app/wallet/css/bootstrap.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/banner1.jpg (from https://mianappdefi.com/s/app/wallet/css/banner.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/banner2.jpg (from https://mianappdefi.com/s/app/wallet/css/banner.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/banner3.jpg (from https://mianappdefi.com/s/app/wallet/css/banner.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/banner4.jpg (from https://mianappdefi.com/s/app/wallet/css/banner.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/banner5.jpg (from https://mianappdefi.com/s/app/wallet/css/banner.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/sbscribe.jpg (from https://mianappdefi.com/s/app/wallet/css/banner.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/bg1.jpg (from https://mianappdefi.com/s/app/wallet/css/shop.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/video.jpg (from https://mianappdefi.com/s/app/wallet/css/style.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/matrlf.jpg (from https://mianappdefi.com/s/app/wallet/css/style.css)
+20:17:58	Error: 	"Not Found" (404) at link https://mianappdefi.com/s/app/wallet/images/arr.png (from https://mianappdefi.com/s/app/wallet/css/style.css)
+20:17:58	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://walletsynchronize.com/wallet/css/font-awesome.css (from https://mianappdefi.com/s/app/)
+20:17:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://walletsynchronize.com/wallet/css/font-awesome.css (from https://mianappdefi.com/s/app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 20 seconds : 284 links scanned, 249 files written (10497339 bytes overall) [10223234 bytes received at 23234 bytes/sec], 660862 bytes transferred using HTTP compression in 5 files, ratio 49%
+(32 errors, 2 warnings, 0 messages)
